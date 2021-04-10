@@ -18,5 +18,5 @@
 * Java
 * ETC..
 ## Contact
-* Dev_Ruby#0343 - Discord
-* hiveruby@gmail.com - email
+* Dev_Ruby#7335 - Discord
+* devruby7777@gmail.com - email
