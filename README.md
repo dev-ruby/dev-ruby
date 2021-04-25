@@ -9,7 +9,7 @@
 * Designer
 ### Language
 * **Python**
-* **Unity C#**
+* **C#**
 * NodeJS (learning)
 ## Contact
 * Dev_Ruby#7335 - Discord
