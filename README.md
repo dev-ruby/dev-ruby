@@ -9,10 +9,10 @@ Python Master
 </br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dev-ruby&show_icons=true&theme=github_dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-ruby&show_icons=true&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ruby&langs_count=8&layout=compact&theme=github_dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ruby&langs_count=8&layout=compact&theme=github_dark&hide_border=true" />
 </a>
 
 </br>
