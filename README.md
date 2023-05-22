@@ -12,7 +12,12 @@
 </br>
 
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=devruby)](https://solved.ac/devruby)
+<a href="solved.ac/devruby">
+  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=devruby" />
+</a>
+<a href="solved.ac/devruby">
+  <img align="center" src="http://mazandi.herokuapp.com/api?handle=devruby&theme=dark" />
+</a>
 
 ![Alt text](https://img.shields.io/github/followers/dev-ruby?style=social)
 
