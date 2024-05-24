@@ -23,7 +23,7 @@
 
 ![Alt text](https://img.shields.io/github/stars/dev-ruby?style=social)
 
-Python Master
+Python&Backend Beginner
 
 </br>
 
